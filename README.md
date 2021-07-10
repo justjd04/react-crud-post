@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-# Published at https://justjd04.github.io/react-crud-post/
+# Published:
+##https://justjd04.github.io/react-crud-post/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
